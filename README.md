@@ -1,4 +1,4 @@
-# Welcome to Explore ML IEM Kolkata Chapter
+# Program Overview
 
 
 - [Onboarding](https://explore-ml-iemk.github.io/Onboarding/)

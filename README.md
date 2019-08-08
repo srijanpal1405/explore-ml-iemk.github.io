@@ -1,5 +1,6 @@
 # Program Overview
 
+[![HitCount](http://hits.dwyl.io/explore-ml-iemk/explore-ml-iemkgithubio.svg)](http://hits.dwyl.io/explore-ml-iemk/explore-ml-iemkgithubio)
 
 - [Onboarding](https://explore-ml-iemk.github.io/Onboarding/)
 - [Prerequisites for Beginner Track](https://explore-ml-iemk.github.io/Prerequisites)

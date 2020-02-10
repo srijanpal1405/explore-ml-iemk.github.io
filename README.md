@@ -1,9 +1,10 @@
 # Program Overview
 
-[![HitCount](http://hits.dwyl.io/explore-ml-iemk/explore-ml-iemkgithubio.svg)](http://hits.dwyl.io/explore-ml-iemk/explore-ml-iemkgithubio)
+- [What is Explore ML?](https://docs.google.com/presentation/d/1Qa_Dtp9bv3YUwMO36UAL-LN5JegDiEwyRHN5NodGWjE/edit?usp=sharing
 
-- [Onboarding](https://explore-ml-iemk.github.io/Onboarding/)
-- [Prerequisites for Beginner Track](https://explore-ml-iemk.github.io/Prerequisites)
-- [Join the Slack](https://join.slack.com/t/explore-ml-iemk/shared_invite/enQtNzE1NTk0MjE3ODc3LWQzY2Y3ZmYyMTI0ZDhhNzQwZjUwZDU3N2ExMzQ1ZWI0MjE1MjRiNzdiOWI0MDAxMzhkNTFjYWIyYjhhOGQxY2M)
+## Noticeboard
 
+- [Join the WhatsApp group](https://chat.whatsapp.com/Bd6xY2VvnDxDlu3teyHGRb)
+- [Python 101 (Go to File->Save a copy in Drive to edit notebook)](https://colab.research.google.com/drive/1v4T-eD9y8QQukj14nV9XMcisXnHKaPKb)
+- [Strings and Regex in Python (Go to File->Save a copy in Drive to edit notebook)](https://colab.research.google.com/drive/1zdCPZfO87DcvfKDp5r0649woF7Dc348S)
 

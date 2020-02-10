@@ -1,6 +1,6 @@
 # Program Overview
 
-- [What is Explore ML?](https://docs.google.com/presentation/d/1Qa_Dtp9bv3YUwMO36UAL-LN5JegDiEwyRHN5NodGWjE/edit?usp=sharing
+- [What is Explore ML?](https://docs.google.com/presentation/d/1Qa_Dtp9bv3YUwMO36UAL-LN5JegDiEwyRHN5NodGWjE/edit?usp=sharing)
 
 ## Noticeboard
 

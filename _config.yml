@@ -16,9 +16,9 @@
 title: Explore ML IEM Kolkata Chapter
 tagline: ''
 description: ''
-author: Purbayan Chowdhury
+author: IEM Explore ML
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'https://shivishbrahma.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://explore-ml-iemk.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
@@ -46,6 +46,11 @@ defaults:
     values:
       layout: staffer
       subpath: '/assets/images/'
+  - scope:
+      path: ''
+      type: courses
+    values:
+      layout: course
   - scope:
       path: ''
       type: modules

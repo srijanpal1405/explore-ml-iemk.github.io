@@ -1,23 +1,15 @@
 ---
-title: Basic Data Structures
+title: Introduction to Visualization and Data Processing
 ---
 
-Oct 5
-: [Linked Lists & Encapsulation](#)
-  : [3.1](#), [2.2](#), [2.3](#)
+Feb 23, 2020
+: **Section**{: .label .label-purple }[Numpy, Matplotlib ,Seaborn and Pandas](#)
+: [Notebook](#)
+: [Slides](#)
+: [2.1](#)
 
-Oct 6
-: **Section**{: .label .label-purple }[Linked Lists](#)
-  : [Solution](#)
-
-Oct 7
-: [Resizing Arrays](#)
-  : [2.4](#), [2.5](#)
-
-Oct 8
-: **Lab**{: .label .label-purple } [Resizing Arrays](#)
-
-Oct 9
-: [Runtime Analysis](#)
-  : [8.1](#), [8.2](#), [8.3](#), [8.4](#)
-: **HW 2 due**{: .label .label-red }
+Feb 25, 2020
+: **Section**{: .label .label-purple }[Cover up advanced topics of pandas and matplotlib](#)
+: [Notebook](#)
+: [Slides](#)
+: [2.2](#)

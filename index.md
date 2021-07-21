@@ -9,7 +9,7 @@ description: >-
     Course policies and information.
 ---
 
-# About
+
 {:.no_toc}
 
 ## Table of contents

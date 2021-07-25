@@ -20,26 +20,17 @@ description: >-
 
 ---
 
-## Overview
+## OVERVIEW
+Explore Machine Learning or Explore ML is a series of lectures covering the theoretical aspects of Machine Learning, supplemented with hands-on exercises which help accelerate the learning curve.
 
-Explore ML Workshops are in-person, live sessions where students learn theoretical concepts and hands-on exercises with the help of a student facilitator (that's you!)
+## A BIT OF HISTORY
+Our Journey started in February 2020, with in-person live sessions taught by student facilitators. As history books would have it, the outbreak of the deadly Sars-Cov-2 virus established a new normal. The pandemic halted those live sessions and we have since decided to move online which would help us reach out to more willing learners just getting started in the field of Machine Learning. 
 
-- Curriculum consist of 3 tracks: Python,Beginner, Intermediate 
+## COURSE STRUCTURE
+We have divided our curriculum into three tracks: 
 
-- Each track includes:
+* Python 
+* Machine Learning for Beginners
+* Machine Learning: Intermediate
 
-- Modules on key ML concepts
-
-  - Hands-on exercises on ML materials / lab 
-
-  - Includes colab notebook.
-
-## Lecture
-
-
-## Resources
-
-
-## Assignments
----
-
+Each track mentioned will have associated modules and resources. The hands-on exercises and activities will help strengthen the concepts learned in the modules. The notebooks, which would contain both the code and their explanation will be provided as materials for the learners to go through and experiment with on their own. 
